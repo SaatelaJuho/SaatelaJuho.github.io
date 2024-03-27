@@ -1,3 +1,5 @@
+<link rel="stylesheet" href=./style.css">
+
 ## Juho Säätelä web-tehtävä
 
 [Github.md](./github.md)

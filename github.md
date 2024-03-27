@@ -1,3 +1,6 @@
+<link rel="stylesheet" href=./style.css">
+
+
 ## Tehtävän git komennot
 
 [index.md](./index.md)
