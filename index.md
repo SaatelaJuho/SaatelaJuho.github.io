@@ -2,8 +2,12 @@
 
 [Github.md](./github.md)
 
-![text editor screenshot](./Screenshot__text_editor.webp)
+
 #### kuva teksti editoristani
+![text editor screenshot](./Screenshot__text_editor.webp)
+
+
+
 
 ### **markdowntutorial.com** vastaukset  
 ###  part 1, _Italics_ and **bold**
