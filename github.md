@@ -1,16 +1,21 @@
 ## Tehtävän git komennot
 
 ### git init
-luo git repo
+#### luo git repo
 Minulla oli jo tämä repo tehtynä joten en sitä tämän tehtävän aikana käyttänyt
 
 ### git clone _linkki_
-hae repo hubista
+#### hae repo hubista
 koska repo oli jo käytin tätä
 
 ### git rm 
-poistaa tiedostoja 
+#### poistaa tiedostoja
+Poistin aikaisemmat tiedostot reposta
 
 ### git add
-lisää tiedosto
+#### lisää tiedosto git repoon
+lisäsin tarvittavat tiedostot _index.md_ _github.md_
+
+### git commit
+#### lisää muutokset
 
