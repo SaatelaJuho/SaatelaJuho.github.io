@@ -1,4 +1,4 @@
-<link rel="stylesheet" href=./style.css">
+<link rel="stylesheet" href="./style.css">
 
 ## Juho Säätelä web-tehtävä
 
